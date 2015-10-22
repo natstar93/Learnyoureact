@@ -1,0 +1,27 @@
+{
+  "name": "learn-you-react",
+  "version": "1.0.0",
+  "description": "React exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natstar93/Learnyoureact.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "express-react-views": "^0.9.0",
+    "node-jsx": "^0.13.3",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
+  },
+  "author": "Natalie Akam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natstar93/Learnyoureact/issues"
+  },
+  "homepage": "https://github.com/natstar93/Learnyoureact#readme"
+}
